@@ -1,0 +1,283 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(28, 31, 49);
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    font-style: italic;
+
+}
+
+h1,
+h3 {
+    color: rgb(28, 31, 49);
+    text-align: center;
+}
+
+h3 {
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(28, 31, 49);
+    padding: 10px;
+
+}
+
+h2,
+h4 {
+    color: rgb(28, 31, 49);
+
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#birth {
+    text-align: center;
+
+}
+
+#partie1,
+#partie2 {
+    padding: 30px;
+
+}
+
+#partie1 {
+    background-color: rgb(214, 218, 244);
+
+}
+
+#partie1 img {
+    width: 250px;
+    height: 250px;
+
+}
+
+#photo {
+    text-align: center;
+
+}
+
+.pdp {
+    border-radius: 50%;
+
+}
+
+
+#partie2 {
+    background-color: rgb(245, 246, 252);
+
+}
+
+a {
+text-decoration-line: underline;
+color: rgb(28, 31, 49);
+}
+
+.portfolio {
+padding-top: 10px;
+
+}
+
+
+
+
+
+@media screen and (max-width: 420px) {
+
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(28, 31, 49);
+        display: flex;
+        justify-content: center;
+
+    }
+
+
+    h4 {
+        font-style: italic;
+
+    }
+
+    h1,
+    h3 {
+        color: rgb(28, 31, 49);
+        text-align: center;
+
+    }
+
+    h3 {
+        border-width: 3px;
+        border-style: solid;
+        border-color: rgb(28, 31, 49);
+        padding: 10px;
+
+    }
+
+    h2,
+    h4 {
+        color: rgb(28, 31, 49);
+
+    }
+
+    section {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    #birth {
+        text-align: center;
+
+    }
+
+    #partie1,
+    #partie2 {
+        padding: 30px;
+
+    }
+
+    #partie1 {
+        background-color: rgb(214, 218, 244);
+
+    }
+
+    #partie1 img {
+        width: 250px;
+        height: 250px;
+
+    }
+
+    #photo {
+        text-align: center;
+
+    }
+
+    .pdp {
+        border-radius: 50%;
+
+    }
+
+
+    #partie2 {
+        background-color: rgb(245, 246, 252);
+
+    }
+
+    a {
+        text-decoration-line: underline;
+        color: rgb(28, 31, 49);
+        }
+        
+        .portfolio {
+        padding-top: 10px;
+        
+        }
+
+
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 421px) and (max-width: 720px) {
+
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: rgb(28, 31, 49);
+        display: flex;
+        justify-content: center;
+
+    }
+
+
+    h4 {
+        font-style: italic;
+
+    }
+
+    h1,
+    h3 {
+        color: rgb(28, 31, 49);
+        text-align: center;
+
+    }
+
+    h3 {
+        border-width: 3px;
+        border-style: solid;
+        border-color: rgb(28, 31, 49);
+        padding: 10px;
+
+    }
+
+    h2,
+    h4 {
+        color: rgb(28, 31, 49);
+
+    }
+
+    section {
+        display: flex;
+        flex-direction: row;
+
+    }
+
+    #birth {
+        text-align: center;
+
+    }
+
+    #partie1,
+    #partie2 {
+        padding: 30px;
+
+    }
+
+    #partie1 {
+        background-color: rgb(214, 218, 244);
+
+    }
+
+    #partie1 img {
+        width: 250px;
+        height: 250px;
+
+    }
+
+    #photo {
+        text-align: center;
+
+    }
+
+    .pdp {
+        border-radius: 50%;
+
+    }
+
+
+    #partie2 {
+        background-color: rgb(248, 245, 252);
+
+    }
+
+    a {
+        text-decoration-line: underline;
+        color: rgb(28, 31, 49);
+        }
+        
+        .portfolio {
+        padding-top: 10px;
+        
+        }
+
+
+}
